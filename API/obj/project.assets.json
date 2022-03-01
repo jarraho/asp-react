@@ -1331,11 +1331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\Documents\\project\\asp-react\\api\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\projects\\asp-react\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Hp\\Documents\\project\\asp-react\\api\\API.csproj",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\projects\\asp-react\\api\\API.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\Documents\\project\\asp-react\\api\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\projects\\asp-react\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

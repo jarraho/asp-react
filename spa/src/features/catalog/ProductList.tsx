@@ -7,7 +7,7 @@ type Props = {
 }
 export default function ProductList({ products }: Props) {
     return (
-        <Grid sx={{ mt: 7, mb: 2, px: 2 }} container rowSpacing={3} columnSpacing={3}>
+        <Grid sx={{ mt: 0 }} container rowSpacing={3} columnSpacing={3}>
             {
                 products.map(product => (
                     <Grid key={product.id} item xs={6} sm={4} lg={3}>
